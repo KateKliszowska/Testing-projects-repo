@@ -3,7 +3,9 @@
 The following repository is created on the basis of several exploratory testing sessions conducted on the mobile App YAZIO.
 
 ## YAZIO app
-This application's basic usage is free of charge, however the full access to the application, including recipees and higher-level analyses is based on paid subscription. It is a weight/diet controlling app with several functions connected with fasting, food preparation, activities and calorie count.
+This application's basic usage is free of charge, however the full access to the application, including recipees and higher-level analyses is based on paid subscription. Therefore, both the free-to-use functionalities and subscription-connected functionalities were tested.
+
+ It is a weight/diet controlling app with several functions connected with fasting, food preparation, activities and calorie count.
 
 ***
 
@@ -16,5 +18,10 @@ The Exploratory sessions were divided into:
 + adding a meal/removing a meal
 + setting fasting priorities/changing fasting priorities
 + adding activity/removing activity
++ accessing subscription-only functionalities (negative testing scenarios)
++ adding subscription
++ accessing subscription-only functionalities (positive test scenarios)
++ functioning on different devices
++ cancelling subscription
 
 
